@@ -1,0 +1,20 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <defs>
+    <linearGradient id="vBadge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4a1030"/>
+      <stop offset="1" stop-color="#3d0a1e"/>
+    </linearGradient>
+    <linearGradient id="vGold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e6c268"/>
+      <stop offset="1" stop-color="#c49030"/>
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="22" fill="url(#vBadge)"/>
+  <rect x="48.5" y="8" width="3" height="8" rx="1.5" fill="url(#vGold)"/>
+  <circle cx="50" cy="18" r="3.5" fill="url(#vGold)"/>
+  <path d="M28,52 A22,22 0 0,1 72,52 Z" fill="url(#vGold)"/>
+  <rect x="26" y="52" width="48" height="6" rx="1" fill="url(#vGold)"/>
+  <rect x="30" y="58" width="40" height="26" fill="url(#vGold)"/>
+  <path d="M42,84 L42,70 C42,66.5 44.5,64 50,64 C55.5,64 58,66.5 58,70 L58,84 Z" fill="#3d0a1e"/>
+  <rect x="24" y="84" width="52" height="5" rx="1.5" fill="url(#vGold)"/>
+</svg>
